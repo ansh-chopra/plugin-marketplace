@@ -1728,6 +1728,24 @@
         ]
       }
     },
+    "wandera": {
+      "sha": "93b0743edf8b0a30bfb7854ae9df2ce5f76cd2fc",
+      "version": "1.0.2",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "wandera",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "get-started",
+            "description": "Set up Wandera and make a first AI video. Use when the user has just installed Wandera or asks how to start making vide…"
+          }
+        ]
+      }
+    },
     "wix": {
       "sha": "82e597a2f8ef3994b3502087dbf089ffe23f6ad9",
       "version": "1.36.0",
